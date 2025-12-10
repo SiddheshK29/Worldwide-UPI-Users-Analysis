@@ -49,29 +49,28 @@ o	Cards
 
 # Demographic Analysis
 ### a. Age Group Distribution
-The dataset contains users across multiple age segments such as 18–24, 25–34, 35–44, 45–54, 55–64, and 65+.
+
 •	The 25–34 age group appears as the most dominant segment, indicating that young adults are the leading contributors to UPI activity.
 
 •	Older age groups have significantly lower participation, showing limited adoption among senior users.
 ### b. Gender Distribution
+
 •	The majority of users fall under the Male category.
 
 •	A moderate number of Female users are present.
 
 •	A smaller proportion is categorized as Other, reflecting inclusivity in digital transactions.
-##3 c. Country-wise Users
+### c. Country-wise Users
 •	India contributes the largest share, showing that UPI usage is primarily India-centric, as expected.
 
 •	Users from other countries indicate international adoption of UPI-linked apps or NRIs using UPI services.
 
 # Device Usage Analysis
-The dataset contains users accessing UPI apps via Android, iOS, and Windows devices.
 •	Android is the most widely used device, showing strong penetration of UPI apps on Android phones.
 
 •	iOS holds a moderate share, while Windows devices are the least used.
 
 ### App Usage Analysis
-Users prefer different digital payment applications such as PhonePe, Google Pay, Amazon Pay, and others.
 •	PhonePe emerges as the most preferred UPI app among users.
 
 •	Google Pay is also widely used and appears as a close competitor.
@@ -80,16 +79,18 @@ Users prefer different digital payment applications such as PhonePe, Google Pay,
 
 ### User Type Analysis
 The dataset classifies users as:
+
 •	Individual Users
 
 •	Merchant Users
+
 Findings:
 •	A significant portion of users are Individuals, indicating normal day-to-day use cases like bill payments, recharges, and personal transfers.
 
 •	Merchants also form a meaningful part of the dataset, showing the use of UPI for retail payments and business transactions.
 
 ## Transaction Behaviour Analysis
-##3 a. Transaction Count
+### a. Transaction Count
 •	There is a wide variation in transaction frequency among users.
 
 •	Some users perform high transaction counts, indicating heavy app engagement.
