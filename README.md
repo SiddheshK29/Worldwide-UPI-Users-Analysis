@@ -13,25 +13,36 @@ To convert raw data into meaningful insights, a Power BI interactive dashboard h
 
 # Scope of the Project
 
-## Data Collection & Understanding
+### Data Collection & Understanding
 •	Reviewing the UPI Users Dataset consisting of 1,000 user entries and 12 attributes.
+
 •	Understanding fields related to demographics, device usage, user type, app preference, transaction behaviour, language preference, and KYC status.
-## Data Cleaning & Preparation
+### Data Cleaning & Preparation
 •	Checking for missing values, inconsistent entries, and incorrect data types.
+
 •	Preparing the dataset for analysis by applying transformations where necessary.
+
 •	Creating calculated fields.
-##  Dashboard Development using Power BI
+###  Dashboard Development using Power BI
 •	Importing the dataset into Power BI.
+
 •	Creating relationships, data model, and calculated metrics (DAX).
+
 •	Designing visuals such as:
 o	KPIs
+
 o	Pie charts
+
 o	Bar charts
+
 o	Line charts
+
 o	Slicers for segmentation
+
 o	Cards
-##  Documentation & Reporting
+###  Documentation & Reporting
 •	Preparing a structured project report including introduction, methodology, analysis, insights, and conclusion.
+
 •	Summarising key findings obtained from the dashboard.
 
 ## 📊 Analysis Section
