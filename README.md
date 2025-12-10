@@ -1,4 +1,4 @@
-# Worldwide-UPI-Users-Analysis
+# Worldwide-UPI-Users-Analysis (Interactive Dashboard creation using Power BI)
 This Power BI dashboard visualizes global UPI user data with interactive charts and KPIs. It highlights country-wise adoption, and regional comparisons, helping users quickly analyze digital payment expansion and make data-driven decisions.
 # Introduction
 Digital payments in India and across the world have grown rapidly, driven by increased smartphone usage, improved internet access, and the adoption of UPI (Unified Payments Interface). As users continue to shift from cash-based transactions to digital platforms, understanding their behaviour, demographics, preferences, and transaction patterns becomes essential for businesses, financial institutions, and policymakers.
