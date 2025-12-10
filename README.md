@@ -118,6 +118,9 @@ Findings:
 
 •	Tamil, Marathi, and Hindi appear among the common preferences, aligning with UPI’s regional adoption patterns.
 
+# Dashboard Interaction
+<a href="https://github.com/SiddheshK29/Worldwide-UPI-Users-Analysis/blob/main/Siddhesh29.pbix">View Dashboard</a>
+
 # Conclusion
 ### •	Young adults are the largest UPI adopters.
 
