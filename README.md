@@ -198,3 +198,7 @@ To develop new UPI-related features
 
 To identify market demands based on user data
 
+# Dashboard Images
+<img width="886" height="495" alt="Power bi-2" src="https://github.com/user-attachments/assets/e350cacc-8023-4d12-948b-026a1751f097" />
+
+<img width="899" height="499" alt="Power Bi-3" src="https://github.com/user-attachments/assets/b3f5d8e3-6967-4d7d-8443-bc96e4d0efcc" />
