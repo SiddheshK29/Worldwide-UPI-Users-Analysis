@@ -119,7 +119,7 @@ Findings:
 •	Tamil, Marathi, and Hindi appear among the common preferences, aligning with UPI’s regional adoption patterns.
 
 # Conclusion
-## •	Young adults are the largest UPI adopters.
+### •	Young adults are the largest UPI adopters.
 
 ## •	Android dominates as the primary device for payments.
 
