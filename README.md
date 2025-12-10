@@ -1,5 +1,8 @@
 # Worldwide-UPI-Users-Analysis
 This Power BI dashboard visualizes global UPI user data with interactive charts and KPIs. It highlights country-wise adoption, and regional comparisons, helping users quickly analyze digital payment expansion and make data-driven decisions.
+# Introduction
 Digital payments in India and across the world have grown rapidly, driven by increased smartphone usage, improved internet access, and the adoption of UPI (Unified Payments Interface). As users continue to shift from cash-based transactions to digital platforms, understanding their behaviour, demographics, preferences, and transaction patterns becomes essential for businesses, financial institutions, and policymakers.
+
 This project focuses on analysing a comprehensive dataset consisting of 1,000 UPI users, covering detailed information about each user’s demographic profile, device usage, preferred payment application, transaction behaviour, and KYC status. The dataset includes attributes such as age group, country, device type, number of transactions, total transaction amount, average transaction value, language preference, and more. These features help in forming a complete picture of the user journey in the digital payment ecosystem.
+
 To convert raw data into meaningful insights, a Power BI interactive dashboard has been developed. The PBIX report contains data modelling, cleaning, visualisation, and analytical elements that allow users to explore patterns, identify key trends, and compare behaviour across different user segments. Using slicers, KPIs, charts, and filters, the dashboard enables quick decision-making and supports deeper understanding of digital payment usage.
