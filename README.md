@@ -121,13 +121,13 @@ Findings:
 # Conclusion
 ### •	Young adults are the largest UPI adopters.
 
-## •	Android dominates as the primary device for payments.
+### •	Android dominates as the primary device for payments.
 
-## •	PhonePe and Google Pay lead in popularity.
+### •	PhonePe and Google Pay lead in popularity.
 
-## •	High-transaction and high-value customers can be identified for targeted services.
+### •	High-transaction and high-value customers can be identified for targeted services.
 
-## •	KYC verification is strong but still leaves room for onboarding improvement.
+### •	KYC verification is strong but still leaves room for onboarding improvement.
 
 
 # Key Users of This Dataset
