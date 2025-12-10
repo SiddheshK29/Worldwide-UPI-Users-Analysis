@@ -47,7 +47,7 @@ o	Cards
 
 # 📊 Analysis Section
 
-# Demographic Analysis
+## Demographic Analysis
 ### a. Age Group Distribution
 
 •	The 25–34 age group appears as the most dominant segment, indicating that young adults are the leading contributors to UPI activity.
@@ -65,19 +65,19 @@ o	Cards
 
 •	Users from other countries indicate international adoption of UPI-linked apps or NRIs using UPI services.
 
-# Device Usage Analysis
+## Device Usage Analysis
 •	Android is the most widely used device, showing strong penetration of UPI apps on Android phones.
 
 •	iOS holds a moderate share, while Windows devices are the least used.
 
-### App Usage Analysis
+## App Usage Analysis
 •	PhonePe emerges as the most preferred UPI app among users.
 
 •	Google Pay is also widely used and appears as a close competitor.
 
 •	Amazon Pay and other apps show lower adoption but still serve a segment of users.
 
-### User Type Analysis
+## User Type Analysis
 The dataset classifies users as:
 
 •	Individual Users
@@ -106,14 +106,14 @@ Findings:
 
 •	Users with low average amounts but high transaction counts may be using UPI for everyday small-value payments.
 
-### KYC Status Analysis
+## KYC Status Analysis
 •	Verified KYC users are the majority, suggesting compliance and stable accounts.
 
 •	Pending KYC users indicate incomplete onboarding or new accounts.
 
 •	Rejected KYC users highlight issues in verification, potentially affecting their transaction limits or app usage.
 
-### Language Preference Analysis
+##  Language Preference Analysis
 •	Language preference reflects regional diversity in digital payments.
 
 •	Tamil, Marathi, and Hindi appear among the common preferences, aligning with UPI’s regional adoption patterns.
